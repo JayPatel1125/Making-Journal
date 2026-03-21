@@ -8,17 +8,33 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+# Data Drawing - Sudden Sounds
+
+## Overview
+This project explores the number of sudden sounds and loud vehicles I experienced over a week. The data was collected manually using tally marks and later visualised through both a hand-drawn piece and an interactive p5.js sketch.
+
+## Process
+- Data collected manually over multiple days
+- Categorised into:
+  - Minor sounds
+  - Noticeable sounds
+  - Sudden/loud sounds
+
+- Translated into a visual system using circles:
+  - Small = minor
+  - Medium = noticeable
+  - Spiky = loud
+
+
+## Reflection
+This project explores data humanism by focusing on subjective experience rather than purely quantitative representation. The imperfections in the hand drawning reflect how data is shaped by perception and attention.
+
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Alt text](../assets/week-01/IMG_3585.jpg)
+*Tally notes*
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+![Alt text](../assets/week-01/IMG_3586.jpg)
+*Data Drawing*
