@@ -33,8 +33,8 @@ This project explores data humanism by focusing on subjective experience rather 
 ## Images & Media
 
 
-![Alt text](../assets/week-01/IMG_3585.jpg)
+![Alt text](../assets/week-01/IMG_3585.jpeg)
 *Tally notes*
 
-![Alt text](../assets/week-01/IMG_3586.jpg)
+![Alt text](../assets/week-01/IMG_3586.jpeg)
 *Data Drawing*
