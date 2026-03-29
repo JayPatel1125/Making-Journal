@@ -131,3 +131,4 @@ This week helped me understand that designing with data is not just about visual
 `*Sounds interactive graph in p5.js*`
 ![Two Interactions](../assets/week-02/2Interactions.gif)
 `*Adding two interactions*`
+
