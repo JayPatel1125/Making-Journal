@@ -27,6 +27,10 @@ The draft NotebookLM produced was significantly stronger than the first attempt 
 
 The draft covered all five elements and the core argument was present: mind-wandering is not a failure to be optimised, and the richness of human attention cannot be captured by a monitoring system. The interaction description was also more specific than earlier versions, naming both the hover tones and the distraction-then-voice click sequence.
 
+![alt text](<../assets/week-12/Screenshot 2026-06-03 at 5.28.55 PM (2).png>)
+![alt text](<../assets/week-12/Screenshot 2026-06-03 at 5.38.37 PM (2).png>)
+*NotebookLM Screenshots.*
+
 ### Refining with Claude
 
 After reviewing the NotebookLM draft, a few issues needed addressing before the statement was ready for submission. These were worked through using Claude.
