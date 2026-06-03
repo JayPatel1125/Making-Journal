@@ -8,7 +8,7 @@ layout: default
 
 ## Documentation 
 
-# Week 9 — Making Journal
+# Week 9 - Making Journal
 
 ## Critical Engagement
 
